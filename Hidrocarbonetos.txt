@@ -1,0 +1,72 @@
+Outro fato importante e que envolve estes compostos é a octanagem da gasolina que quanto maior for, maior será a resistência a detonação. O que significa que a gasolina com maior octanagem tende a proporcionar um melhor aproveitamento pelo motor da energia proveniente deste combustível. Quimicamente falando, a cadeia carbônica será maior e consequentemente gerará mais energia ao entrar em combustão.
+
+As principais propriedades físicas desses compostos são:
+
+Insolubilidade em água e solubilidade em solventes orgânicos apolares;
+Todos os alcanos tem densidade menor que 1,0 g/mL portanto flutuam na água;
+Os alcanos não apresentem cor, odor e sabor;
+Os compostos com até 5 átomos de carbonos estão no estado gasoso à temperatura ambiente;
+Os compostos com de 5 a 17 átomos de carbonos são líquidos à temperatura ambiente;
+Compostos que apresentam mais de 17 átomos de carbonos possuem forma de cera, ou seja, são sólidos.
+Conforme o tipo de ligações existentes entre os átomos de carbono eles podem ser classificados em: alcanos, alcenos, alcinos, alcadienos, cicloalcanos e aromáticos. Lembrando que as duplas ou triplas ligações também podem ser chamadas de insaturações.
+
+Nomenclatura dos hidrocarbonetos
+Para nomeá-los devemos considerar três partes:
+
+Prefixo + intermediário + O
+
+Lista de prefixos:
+
+Número de Carbonos	Prefixo
+1	met
+2	et
+3	prop
+4	but
+5	pent
+6	hex
+7	hept
+8	oct
+9	non
+10	dec
+ 
+
+Tipo de ligação	Intermediário
+Somente simples	an
+Dupla	en
+Tripla	in
+Duas duplas	dien
+Por exemplo o composto usualmente conhecido como etileno e é utilizado inclusive como anestésico, possui a seguinte nomenclatura conforme a IUPAC:
+
+eteno
+ET (2 carbonos) + EN (uma dupla ligação) + O
+
+Portanto: eteno.
+
+Os alcanos são compostos que possuem apenas ligações simples entre os átomos de carbono da cadeia. São também chamados de parafinas que do latim significa: com pouca afinidade. Isso se deve ao fato de serem pouco reativos. Um dos principais alcanos é o butano que juntamente com o propano compõe a mistura presente no GLP (gás liquefeito de petróleo) o comumente chamado gás de cozinha. Os cicloalcanos possuem praticamente as mesmas características, porém possuem uma cadeia fechada ou cíclica. Um exemplo é o ciclopropano que possui a forma geométrica de um triângulo onde cada vértice representa um carbono.
+
+cicloalcanos
+Os alcenos são compostos que possuem uma ligação dupla entre carbonos em sua estrutura. Podem ser chamados também de olefinas devido à tendência de um dos principais compostos dessa classe, o eteno, através de reação com halogênios formar produtos oleosos e apolares. Os alcenos também possuem cadeias fechadas como é o caso do ciclobuteno.
+
+alcenosEtino ou Acetileno
+Etino ou Acetileno
+
+Os alcinos são substâncias que apresentam em sua cadeia uma tripla ligação. O alcino mais simples é o etino, ou acetileno que é utilizado em larga escala nas soldas além de ser parte do processo de síntese de pílulas anticoncepcionais. Já os alcadienos possuem duas duplas ligações na sua estrutura como por exemplo o prop-1,2-dieno que também é um gás utilizado em soldas no gás MAPP (metil acetileno e propadieno).
+
+alcinosBenzeno
+Benzeno
+
+Por fim temos os hidrocarbonetos aromáticos, onde o principal é o benzeno. Esses compostos são cíclicos, ou seja possuem cadeia fechada. Possuem duplas alternadas dentro do ciclo que na maioria das vezes são representadas por um círculo. Isto se deve ao fenômeno da ressonância, pois o círculo simboliza o movimento dos elétrons (em sentido circular) no interior do anel aromático. A estrutura do benzeno foi proposta por Friedrich August Kekulé em 1865 sendo curiosa a forma como foi descoberta. Diz-se que Kekulé teve um sonho onde uma serpente mordia a própria cauda, simbolizando assim o anel aromático. Outros exemplo de aromático é o naftaleno que é um composto onde encontramos dois anéis benzênicos. Esta substância é vendida comercialmente sob o nome de naftalina e é utilizada como anti-mofo e contra insetos.
+
+Hidrocarbonetos aromáticos
+Hidrocarbonetos aromáticos
+
+Quando os compostos aromáticos foram descobertos e isolados desejava-se trabalhar com compostos de odor agradável, daí o nome. Porém isso não se sustenta hoje em dia, pois esta característica não é o que determina a aromaticidade de um composto, mas sim a presença de elétrons envolvidos em uma ligação pi que se alternam em torno de um ciclo.
+Como o próprio nome já diz, os hidrocarbonetos são compostos formados apenas por átomos de hidrogênio e carbono. São substâncias apolares e consequentemente não conduzem corrente elétrica, além de serem os compostos mais simples da Química Orgânica.
+
+Sempre ouvimos bastante a respeito dos combustíveis, no Brasil temos na história recente a exploração da camada do pré-sal e esta classe de compostos está muito presente nesse assunto. Os hidrocarbonetos são os principais constituintes do petróleo que é formado a partir da deposição de matéria orgânica no fundo de mares e lagos e da sedimentação desse material sob altas pressões e temperaturas. O petróleo pode ter em sua composição hidrocarbonetos cujas moléculas possuem trinta carbonos ou mais.
+==========================================================================================================================================================
+
+
+
+
+https://www.infoescola.com/quimica-organica/hidrocarbonetos/
